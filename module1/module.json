@@ -18,7 +18,7 @@
 	"GOEXE": "",
 	"GOEXPERIMENT": "",
 	"GOFLAGS": "",
-	"GOGCCFLAGS": "-fPIC -arch x86_64 -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fdebug-prefix-map=/var/folders/xs/z4mw4lmn2n9_r13lnsx1fmgm0000gn/T/go-build1960363424=/tmp/go-build -gno-record-gcc-switches -fno-common",
+	"GOGCCFLAGS": "-fPIC -arch x86_64 -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fdebug-prefix-map=/var/folders/xs/z4mw4lmn2n9_r13lnsx1fmgm0000gn/T/go-build1052773959=/tmp/go-build -gno-record-gcc-switches -fno-common",
 	"GOHOSTARCH": "amd64",
 	"GOHOSTOS": "darwin",
 	"GOINSECURE": "",
